@@ -544,7 +544,7 @@ function App() {
             </a>
             <a href="#">
               {" "}
-              <i className="fab fa-twitter"></i> twitter{" "}
+              <i class="fab fa-snapchat"></i> snapchat{" "}
             </a>
             <a href="#">
               {" "}
