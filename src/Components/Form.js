@@ -37,7 +37,7 @@ const Form = () => {
       return errors;
     },
 
-    onSubmit: (values) => {
+    onSubmit: (values, onSubmitProps) => {
       fetch(
         "https://http-project-8dad5-default-rtdb.firebaseio.com/bookingDetails.json",
         {
@@ -50,6 +50,8 @@ const Form = () => {
       );
 
       toast.success("Successfully booked.");
+
+      onSubmitProps.resetForm();
     },
   });
   return (
