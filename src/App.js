@@ -55,8 +55,8 @@ function App() {
         <div className="content">
           <h3>stay safe, stay healthy</h3>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla odit
-            quidem, possimus amet consequuntur incidunt.
+            clinicy hospitals are distinguished in providing health care
+            services of the highest possible quality.
           </p>
           <a href="#" className="btn">
             contact us <span className="fas fa-chevron-right"></span>
@@ -103,8 +103,8 @@ function App() {
             <i className="fas fa-heart-circle-check"></i>
             <h3>free checkups</h3>
             <p>
-              Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ad,
-              omnis.
+              A comprehensive medical examination for all body functions for
+              free.
             </p>
             <a href="#" className="btn">
               learn more <span className="fas fa-chevron-right"></span>
@@ -114,10 +114,7 @@ function App() {
           <div className="box">
             <i className="fa-sharp fa-solid fa-stethoscope"></i>
             <h3>24/7 ambulance</h3>
-            <p>
-              Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ad,
-              omnis.
-            </p>
+            <p>Ambulance service and emergency reception throughout the day.</p>
             <a href="#" className="btn">
               learn more <span className="fas fa-chevron-right"></span>
             </a>
@@ -126,10 +123,7 @@ function App() {
           <div className="box">
             <i className="fas fa-user-md"></i>
             <h3>expert doctors</h3>
-            <p>
-              Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ad,
-              omnis.
-            </p>
+            <p>Distinguished doctors in various medical specialties.</p>
             <a href="#" className="btn">
               learn more <span className="fas fa-chevron-right"></span>
             </a>
@@ -138,10 +132,7 @@ function App() {
           <div className="box">
             <i className="fas fa-pills"></i>
             <h3>medicines</h3>
-            <p>
-              Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ad,
-              omnis.
-            </p>
+            <p>Full provision of all patients' needs, including medicines.</p>
             <a href="#" className="btn">
               learn more <span className="fas fa-chevron-right"></span>
             </a>
@@ -150,10 +141,7 @@ function App() {
           <div className="box">
             <i className="fas fa-procedures"></i>
             <h3>bed facility</h3>
-            <p>
-              Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ad,
-              omnis.
-            </p>
+            <p>Beds are available, whether emergency or reception</p>
             <a href="#" className="btn">
               learn more <span className="fas fa-chevron-right"></span>
             </a>
@@ -162,10 +150,7 @@ function App() {
           <div className="box">
             <i className="fas fa-heartbeat"></i>
             <h3>total care</h3>
-            <p>
-              Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ad,
-              omnis.
-            </p>
+            <p>Comprehensive medical care for all patient needs.</p>
             <a href="#" className="btn">
               learn more <span className="fas fa-chevron-right"></span>
             </a>
@@ -188,15 +173,14 @@ function App() {
           <div className="content">
             <h3>we take care of your healthy life</h3>
             <p>
-              Lorem ipsum dolor sit amet consectetur, adipisicing elit. Iure
-              ducimus, quod ex cupiditate ullam in assumenda maiores et culpa
-              odit tempora ipsam qui, quisquam quis facere iste fuga, minus
-              nesciunt.
+              In clinicy hospitals, we provide various forms of health care for
+              all reception and emergency cases, and we make sure that the
+              service provided is of the highest possible quality.
             </p>
             <p>
-              Lorem ipsum dolor, sit amet consectetur adipisicing elit. Natus
-              vero ipsam laborum porro voluptates voluptatibus a nihil
-              temporibus deserunt vel?
+              We serve different ages of patients, including children and the
+              elderly, and we are keen to provide psychological treatment and
+              psychological support to the patient who needs it.
             </p>
             <a href="#" className="btn">
               learn more <span className="fas fa-chevron-right"></span>
@@ -322,10 +306,10 @@ function App() {
               <i className="fas fa-star-half-alt"></i>
             </div>
             <p className="text">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit.
-              Laboriosam sapiente nihil aperiam? Repellat sequi nisi aliquid
-              perspiciatis libero nobis rem numquam nesciunt alias sapiente
-              minus voluptatem, reiciendis consequuntur optio dolorem!
+              I have dealt with clinicy hospital, frankly, a distinguished
+              service and a high degree of quality. They care about all aspects
+              of the patient, not just the disease. I recommend it to everyone
+              who wants a distinguished service.
             </p>
           </div>
 
@@ -340,10 +324,10 @@ function App() {
               <i className="fas fa-star-half-alt"></i>
             </div>
             <p className="text">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit.
-              Laboriosam sapiente nihil aperiam? Repellat sequi nisi aliquid
-              perspiciatis libero nobis rem numquam nesciunt alias sapiente
-              minus voluptatem, reiciendis consequuntur optio dolorem!
+              Competitive prices compared to competitors One of the few
+              hospitals that offer great value for a reasonable price. I would
+              recommend this hospital to anyone who wants the best value for
+              money.
             </p>
           </div>
 
@@ -358,10 +342,9 @@ function App() {
               <i className="fas fa-star-half-alt"></i>
             </div>
             <p className="text">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit.
-              Laboriosam sapiente nihil aperiam? Repellat sequi nisi aliquid
-              perspiciatis libero nobis rem numquam nesciunt alias sapiente
-              minus voluptatem, reiciendis consequuntur optio dolorem!
+              I have been suffering from back pain and I found excellent service
+              in my clinicy I would like to say that this hospital is one of the
+              best hospitals I have dealt with.
             </p>
           </div>
         </div>
@@ -390,10 +373,9 @@ function App() {
                   <i className="fas fa-user"></i> by admin{" "}
                 </a>
               </div>
-              <h3>blog title goes here</h3>
+              <h3>diabetes treatment</h3>
               <p>
-                Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-                Provident, eius.
+                Learn about the different types of drugs used to treat diabetes.
               </p>
               <a href="#" className="btn">
                 learn more <span className="fas fa-chevron-right"></span>
@@ -416,11 +398,8 @@ function App() {
                   <i className="fas fa-user"></i> by admin{" "}
                 </a>
               </div>
-              <h3>blog title goes here</h3>
-              <p>
-                Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-                Provident, eius.
-              </p>
+              <h3>electron microscope</h3>
+              <p>What are the uses of the microscope in the medical field?</p>
               <a href="#" className="btn">
                 learn more <span className="fas fa-chevron-right"></span>
               </a>
@@ -442,11 +421,8 @@ function App() {
                   <i className="fas fa-user"></i> by admin{" "}
                 </a>
               </div>
-              <h3>blog title goes here</h3>
-              <p>
-                Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-                Provident, eius.
-              </p>
+              <h3>medical equipments</h3>
+              <p>The most important medical devices in diagnosis</p>
               <a href="#" className="btn">
                 learn more <span className="fas fa-chevron-right"></span>
               </a>
