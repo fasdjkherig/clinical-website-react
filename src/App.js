@@ -19,6 +19,11 @@ function App() {
     menuRef.current.classList.toggle("fa-times");
     navbarRef.current.classList.toggle("active");
   };
+
+  window.onscroll = () => {
+    menuRef.current.classList.remove("fa-times");
+    navbarRef.current.classList.remove("active");
+  };
   return (
     <React.Fragment>
       {/* header section starts  */}
