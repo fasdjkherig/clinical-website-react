@@ -543,7 +543,7 @@ function App() {
         </div>
 
         <div className="credit">
-          © 2022 <span>Clinicy</span>. All rights reserved.
+          © 2023 <span>Clinicy</span>. All rights reserved.
         </div>
       </section>
       {/* footer section ends  */}
