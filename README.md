@@ -1,4 +1,4 @@
-# Front end development project for a Medical booking site
+# Front end development project for a Clinical booking site
 
 ![home image](https://github.com/fasdjkherig/clinical-website-react/blob/main/src/images/cover.png)
 
