@@ -1,6 +1,6 @@
 # Clinical Booking Site
 
-![home image](https://github.com/fasdjkherig/clinical-website-react/blob/main/src/images/cover.png)
+![home image](https://github.com/fasdjkherig/clinical-website-react/blob/main/src/images/cover2.png)
 
 Welcome to the Clinical Booking Site, a front-end development project designed to streamline the process of booking appointments at clinics. This project is built with a focus on user experience, ensuring a seamless and efficient booking process for both patients and clinics.
 
